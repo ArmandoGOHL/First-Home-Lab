@@ -1,4 +1,4 @@
-#Daily Log
+# Daily Log
 
 ## 3-3-26
 ### Actions
