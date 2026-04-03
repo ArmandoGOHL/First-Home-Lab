@@ -7,6 +7,8 @@
 3. IP address reservations
 4. DHCP scope and static/dynamic understadning and lease understanding
 5. Installed Wireshark to view real time traffic
+6. Homebrew package install for terminal on mac in opt folder
+7. NMAP commands for port monitoring
 ### Problems
 1. Ethernet into isolated network while still using home wifi to browse?
 2. Remember to eat food
