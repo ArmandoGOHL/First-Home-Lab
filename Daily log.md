@@ -23,12 +23,12 @@
 
 ## 3-4-26
 ### Actions
-1. 
+1. CourseEra IT fundamntals course commenced
 ### Problems
-1. 
+1. Current degree takes up time
 ### Fix
-1. 
+1. Finish up in 3 weeks
 ### Next
-1. 
+1. Finish CourseEra and current degree
 
    
